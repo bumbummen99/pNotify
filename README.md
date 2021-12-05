@@ -1,4 +1,3 @@
 # pNotify
-In-game notifications for the FiveM GTA V mod
 
-instructions / examples [here](https://forum.fivem.net/t/release-pnotify-in-game-js-notifications-using-noty/20659/1)
+Fork of the original pNotify but clone friendly. Just clone it to `resources/[pNotify]` and you are set.
